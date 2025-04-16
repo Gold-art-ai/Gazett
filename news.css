@@ -1,0 +1,39 @@
+
+ h1{
+    
+    font-size: 70px;
+    
+    color: rgb(102, 63, 35);
+      font-family: "Lucida Handwriting", cursive;
+  
+ }
+ .nav{
+   
+      text-align: center;
+      padding: 0px;
+      border-top: 10px double rgb(223, 123, 99);
+      border-bottom: 10px double rgb(223, 123, 99);
+margin-bottom: 40px;
+ }
+ .nav p{
+   margin-top: -40px;
+   font-family: "Lucida Handwriting", cursive;
+ }
+ .title{
+   font-size: 39px;
+   display: flex;
+
+ }
+ .title img{
+   width: 50%;
+   height: auto;
+
+ }
+.title h2{
+   width: 50%;
+            padding: 20px;
+            font-size: 3em; /* Increased size */
+            font-weight: bold;
+            text-align: right;
+            color: #D10068;
+}
